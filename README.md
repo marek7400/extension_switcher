@@ -1,4 +1,4 @@
-# Extension switcher - Chrome extension
+# Extension Manager - Chrome extension
 
 Enable/disable extensions, Import/Export list to html or txt.
 
